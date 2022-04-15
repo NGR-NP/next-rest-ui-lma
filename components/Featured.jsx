@@ -11,7 +11,7 @@ const Featured = () => {
   return (
     <div className={styles.container}>
       <div className={styles.arrowContainer}>
-        <Image src="/img/arrowl.png" alt="arrowl" layout="fill" />
+        <Image src="/img/arrowl.png" alt="arrowleft" layout="fill" />
       </div>
       <div className={styles.wrapper}>
         <div className={styles.imgContainer}>
